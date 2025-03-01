@@ -12,7 +12,7 @@ To get the frontend running locally:
 - Clone this repo
 - `npm install` to install all req'd dependencies
 - `npm run dev` to start the local server (this project Vite)
-
+(not working)
 ### Making requests to the backend API
 
 For convenience, we have a live API server running at https://conduit.productionready.io/api for the application to make requests against. You can view [the API spec here](https://github.com/GoThinkster/productionready/blob/master/api) which contains all routes & responses for the server.
